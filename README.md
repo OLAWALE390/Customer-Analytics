@@ -1,4 +1,4 @@
-an e-commerce company dealing with electronic products want to discover key insights from their 
+An e-commerce company dealing with electronic products want to discover key insights from their 
 customer database. The following KPIs have been highlighted by the company and you as the data team 
 have been asked to generate actionable insights on them using the company’s customer data;
  Customer demography
